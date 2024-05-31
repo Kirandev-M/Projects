@@ -1,0 +1,8 @@
+mediapipe==0.10.1
+numpy==1.24.1
+opencv_contrib_python==4.8.0.74
+opencv_python==4.6.0.66
+pyttsx3==2.90
+pywhatkit==5.4
+SpeechRecognition==3.10.0
+wikipedia==1.4.0
