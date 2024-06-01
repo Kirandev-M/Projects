@@ -1,10 +1,14 @@
 # Projects
 A repository for projects I have done.
 
-Curl Counter is a python program which uses your webcam to monitor your bicep curl progress by counting the time the curl position is up and down and well as keeping count of how many curls you do. The curl is counted when the arm goes to a curl position then down to an almost straight arm. I created this to help me keep track of how many curls I do and how long I keep it in each position.
+£Curl Counter
+Curl Counter is a Python program that utilizes your webcam to monitor and analyze your bicep curl performance. It counts the number of curls you complete and measures the time spent in the up and down positions. A curl is counted when your arm moves from a curled position to an almost straight arm. This program was developed to help track the number of curls performed and the duration in each position.
 
-Language Learner by speech is a python program which uses the computers default text to speech in (english) and an downloaded speech to text (spanish - Helena) to ask you to repeat a word after it and you have to say it back. If what you say matches what is asked it 'Well done' or if you are wrong it says try again. This is a work in progress which has some faults such as the text to speech will have to be spanish for sentences or particular words and the loop system after you get it wrong needs to be worked on.
+£Language Learner by Speech
+Language Learner by Speech is a Python application that leverages the computer's default text-to-speech function (in English) and a downloaded speech-to-text module (Spanish - Helena). It prompts you to repeat a word in Spanish, and if your pronunciation matches the expected output, it responds with "Well done." Otherwise, it prompts you to try again. This project is a work in progress and has some known issues, such as the need for Spanish text-to-speech for certain sentences or words and improvements needed in the error-handling loop.
 
-Text to speech website uses HTML, CSS and JavaScript to make a box where you can type text and it plays, pauses, resumes, restarts the text with a voice that can be selected. The download button does not work currently as I haven't figured out how to download the played sound from the browser.
+£Text to Speech Website
+The Text to Speech Website is built using HTML, CSS, and JavaScript. It features a text box where users can input text and control playback with options to play, pause, resume, and restart the text. Users can also select different voices. Currently, the download button is non-functional as I am working on enabling sound file downloads from the browser.
 
-Bank_Management uses C programming to make a simple banking system which can Create an Account, Deposit Money, Withdraw Money and Transfer Money. It can be improved by adding more options for the bank perhaps.
+£Bank Management System
+The Bank Management System is a simple banking application developed in C. It allows users to create accounts, deposit money, withdraw money, and transfer funds. There is potential for enhancement by adding more features to the banking system.
